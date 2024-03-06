@@ -1,5 +1,7 @@
 # Code for InfoCTM: A Mutual Information Maximization Perspective of Cross-lingual Topic Modeling (AAAI2023)
 
+## **Check our latest topic modeling toolkit [TopMost](https://github.com/bobxwu/topmost) !**
+
 [PDF](https://arxiv.org/pdf/2304.03544.pdf)
 
 ## Usage
